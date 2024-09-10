@@ -9,7 +9,10 @@ Söz Verdiğim Gibi Ama Sadece Basit Versiyonu
 
 Ek Olarak Hesaplarımız Ve Onlarla Beraber Bulunduğumuz Sahibi Olduğumuz Tüm Sunucular Ve Botlar Discord Tarafından Kapatılmış Ve Banlanmıştır Ulşamanız Zor Olabilir Yakında Ayarlaya Bilirsem Yeni Sunucu Hepinizi Bekliyor Olacağım Discord Bot Destek Ve Yardım Edecek Arkadaş Arayanlara Önerim Sunucular.
 
-1 - LUPPUX : https://discord.gg/luppux
+1 - Luppux : https://discord.gg/luppux
+
 2 - CodeAre : https://discord.gg/codare
+
 3 - CodeShare : https://discord.gg/codes
+
 4 - Covid19Code : https://discord.gg/Arq9273JUh
