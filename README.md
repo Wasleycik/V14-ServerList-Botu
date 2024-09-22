@@ -1,6 +1,8 @@
 # V14-ServerList-Botu
 Serverlist Sunucumuzda Kullanılan Botumuzun Basit Düzeyde Bir Benzeri
 
+Sunucu : https://discord.gg/hH3t8WUwGm
+
 Yakında Güncelleyecem Nasıl Bir Bot Olduğunu Bilmeyenler İçin Küçük Bilgilendiri Resimler eklenecek
 
 İşten Dolayı İlgilenemiyorum Müsait Olduğum Zaman Paylaşmaya Çalışacağım 
