@@ -1,15 +1,15 @@
 # V14-ServerList-Botu
-Serverlist Sunucumuzda Kullanılan Botumuzun Basit Düzeyde Bir Benzeri
+ServerLand Ve ServerStory Sunucularında Kullandığımız Gelişmiş Serverlist Botudur.
 
-Sunucu : https://discord.gg/hH3t8WUwGm
+Botun Sadece Basit Hali Paylaşılacaktır Pekbir Beklentiniz Olmasın Kararımız Değişebilir Belli Olmaz Tam Kapsamlı Altyapıyıda Paylaşabiliriz Beklemede Kalın!
 
-Yakında Güncelleyecem Nasıl Bir Bot Olduğunu Bilmeyenler İçin Küçük Bilgilendiri Resimler eklenecek
+ServerLand: https://discord.gg/CwxNxYXxFt
+ServerStory: https://discord.gg/hcMj9CUWqy
+WasleyCompany: https://discord.gg/kdaPDVvvtM
 
-İşten Dolayı İlgilenemiyorum Müsait Olduğum Zaman Paylaşmaya Çalışacağım 
+Tüm hesaplarımız ve sunucularımız ardı ardına ban yediği için sunucularımızı komple yenilemez zorunda kalıyoruz bilginize! Şuan Yeni Açılan Hesaplarımız Ve Sunucularımızda Ban Yediği İçin Tekrar Açıyoruz Dsicord :)
 
-Söz Verdiğim Gibi Ama Sadece Basit Versiyonu
-
-Ek Olarak Hesaplarımız Ve Onlarla Beraber Bulunduğumuz Sahibi Olduğumuz Tüm Sunucular Ve Botlar Discord Tarafından Kapatılmış Ve Banlanmıştır Ulşamanız Zor Olabilir Yakında Ayarlaya Bilirsem Yeni Sunucu Hepinizi Bekliyor Olacağım Discord Bot Destek Ve Yardım Edecek Arkadaş Arayanlara Önerim Sunucular.
+Discord Bot Destek Ve Yardım Edecek Arkadaş Arayanlara Önerim Sunucular.
 
 1 - Luppux : https://discord.gg/luppux
 
