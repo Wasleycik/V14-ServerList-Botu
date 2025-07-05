@@ -4,7 +4,9 @@ ServerLand Ve ServerStory Sunucularında Kullandığımız Gelişmiş Serverlist
 Botun Sadece Basit Hali Paylaşılacaktır Pekbir Beklentiniz Olmasın Kararımız Değişebilir Belli Olmaz Tam Kapsamlı Altyapıyıda Paylaşabiliriz Beklemede Kalın!
 
 ServerLand: https://discord.gg/CwxNxYXxFt
+
 ServerStory: https://discord.gg/hcMj9CUWqy
+
 WasleyCompany: https://discord.gg/kdaPDVvvtM
 
 Tüm hesaplarımız ve sunucularımız ardı ardına ban yediği için sunucularımızı komple yenilemez zorunda kalıyoruz bilginize! Şuan Yeni Açılan Hesaplarımız Ve Sunucularımızda Ban Yediği İçin Tekrar Açıyoruz Dsicord :)
