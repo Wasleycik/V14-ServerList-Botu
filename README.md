@@ -1,7 +1,5 @@
-# V14-ServerList-Botu
-ServerLand Ve ServerStory Sunucularında Kullandığımız Gelişmiş Serverlist Botudur.
-
-Botun Sadece Basit Hali Paylaşılacaktır Pekbir Beklentiniz Olmasın Kararımız Değişebilir Belli Olmaz Tam Kapsamlı Altyapıyıda Paylaşabiliriz Beklemede Kalın!
+# V14-ServerLand-Botu
+ServerLand Ve ServerStory Sunucularında Kullandığımız Gelişmiş Eski Botlardır.
 
 ServerLand: https://discord.gg/CwxNxYXxFt
 
